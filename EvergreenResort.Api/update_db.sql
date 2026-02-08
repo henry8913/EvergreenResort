@@ -1,0 +1,23 @@
+DELETE FROM Camere;
+INSERT INTO Camere (Nome, Numero, Prezzo, Stato, Tipologia, ImmagineUrl, Descrizione) VALUES 
+('Pine Valley Suite', '101', 250.00, 'Libera', 'Suite', 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800', 'Immersa tra i pini secolari, con balcone privato affacciato sul green.'),
+('Royal Garden Suite', '102', 320.00, 'In Pulizia', 'Suite', 'https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800', 'Lusso sfrenato con giardino privato e vasca idromassaggio.'),
+('Ocean Breeze Suite', '103', 450.00, 'Libera', 'Suite', 'https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800', 'La massima esperienza di lusso con vista mare a 180 gradi e servizio maggiordomo.'),
+('Golden Sunset Suite', '104', 380.00, 'Libera', 'Suite', 'https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800', 'Suite esposta a ovest per godere di tramonti indimenticabili dal terrazzo privato.'),
+('Presidential Golf Suite', '105', 550.00, 'Libera', 'Suite', 'https://images.unsplash.com/photo-1609949165386-2e1a9c43b938?w=800', 'Il top del resort: 120mq, due camere, salotto e vista diretta sul campo da golf.'),
+('Wellness Spa Suite', '106', 400.00, 'Manutenzione', 'Suite', 'https://images.unsplash.com/photo-1531835551805-16d864c8d311?w=800', 'Suite dedicata al benessere con sauna privata e accesso diretto alla SPA.'),
+('Honeymoon Haven', '107', 360.00, 'Occupata', 'Suite', 'https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=800', 'Romantica e appartata, con letto a baldacchino e champagne all''arrivo.'),
+('Emerald Fairway Deluxe', '202', 180.00, 'Libera', 'Deluxe', 'https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800', 'Vista panoramica sulla buca 18 e arredamento in legno di rovere.'),
+('Lagoon View Deluxe', '203', 210.00, 'Occupata', 'Deluxe', 'https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800', 'Affacciata sul laghetto del resort, offre un''atmosfera di pace assoluta.'),
+('Mountain Retreat Deluxe', '204', 195.00, 'Libera', 'Deluxe', 'https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=800', 'Design alpino-chic con camino in pietra e vista sulle montagne circostanti.'),
+('Botanic Garden Deluxe', '205', 185.00, 'Libera', 'Deluxe', 'https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800', 'Accesso diretto al giardino botanico, ideale per gli amanti della natura.'),
+('Oak Wood Deluxe', '206', 190.00, 'Libera', 'Deluxe', 'https://images.unsplash.com/photo-1616594039964-40891a9045c9?w=800', 'Arredata interamente con legni pregiati locali, calda e accogliente.'),
+('Sunrise Terrace Deluxe', '207', 200.00, 'Occupata', 'Deluxe', 'https://images.unsplash.com/photo-1522771753037-633361fad923?w=800', 'Ampio terrazzo esposto a est per godersi l''alba con la colazione in camera.'),
+('Poolside Deluxe', '208', 205.00, 'Libera', 'Deluxe', 'https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800', 'A due passi dalla piscina infinity, perfetta per chi ama nuotare.'),
+('Willow Creek Room', '303', 135.00, 'Occupata', 'Standard', 'https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800', 'Tranquilla e spaziosa, ideale per chi cerca il massimo relax.'),
+('Sunset View Standard', '304', 140.00, 'Manutenzione', 'Standard', 'https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=800', 'Camera accogliente con vista mozzafiato sul tramonto.'),
+('Cozy Corner Standard', '305', 120.00, 'Libera', 'Standard', 'https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800', 'Piccola ma confortevole, perfetta per soggiorni brevi e viaggiatori singoli.'),
+('Family Comfort Standard', '306', 150.00, 'Libera', 'Standard', 'https://images.unsplash.com/photo-1596436889106-be35e843f974?w=800', 'Spazi ottimizzati per famiglie, con due letti queen size e area giochi.'),
+('Green Starter Room', '307', 115.00, 'Libera', 'Standard', 'https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800', 'Essenziale e moderna, ottima come punto d''appoggio per i golfisti.'),
+('Hiker''s Base', '308', 110.00, 'Libera', 'Standard', 'https://images.unsplash.com/photo-1560185127-6a6850f0c02c?w=800', 'Vicino ai sentieri, pratica e funzionale per gli amanti del trekking.'),
+('Garden Patch Room', '309', 125.00, 'In Pulizia', 'Standard', 'https://images.unsplash.com/photo-1507652313519-d4e9174996dd?w=800', 'Piano terra con piccolo patio privato immerso nel verde.');

@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/about.html",
+      "PackagePath": "staticwebassets/about.html"
+    },
+    {
+      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/admin.html",
+      "PackagePath": "staticwebassets/admin.html"
+    },
+    {
+      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/css/admin.css",
+      "PackagePath": "staticwebassets/css/admin.css"
+    },
+    {
+      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/css/index.css",
+      "PackagePath": "staticwebassets/css/index.css"
+    },
+    {
+      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/js/admin.js",
+      "PackagePath": "staticwebassets/js/admin.js"
+    },
+    {
+      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/js/index.js",
+      "PackagePath": "staticwebassets/js/index.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.EvergreenResort.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.EvergreenResort.Api.props",
+      "PackagePath": "build\\EvergreenResort.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EvergreenResort.Api.props",
+      "PackagePath": "buildMultiTargeting\\EvergreenResort.Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EvergreenResort.Api.props",
+      "PackagePath": "buildTransitive\\EvergreenResort.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

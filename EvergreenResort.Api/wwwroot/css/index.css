@@ -1,0 +1,153 @@
+:root {
+    --primary-green: #1a472a;
+    --primary-gold: #c5a059;
+    --dark-overlay: rgba(0, 0, 0, 0.4);
+    --text-muted: #6c757d;
+    --bg-light: #f8f9fa;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6, .font-playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.font-cinzel {
+    font-family: 'Cinzel', serif;
+}
+
+.text-primary-dark {
+    color: var(--primary-green);
+}
+
+.bg-darker {
+    background-color: #111;
+}
+
+/* Navbar */
+.navbar {
+    transition: all 0.3s ease;
+    padding: 1rem 0;
+}
+
+.navbar-brand {
+    letter-spacing: 2px;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem !important;
+}
+
+.nav-link.active {
+    color: var(--primary-gold) !important;
+}
+
+/* Hero Section */
+.hero, .page-header {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Parallax effect */
+    position: relative;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page-header {
+    height: 60vh; /* Shorter for subpages */
+}
+
+.hero .overlay, .page-header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6));
+}
+
+.hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+    padding: 0 20px;
+}
+
+.hero h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+/* Buttons */
+.btn-gold {
+    background-color: var(--primary-gold);
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.3s;
+}
+
+.btn-gold:hover {
+    background-color: #b08d4b;
+    color: white;
+    transform: translateY(-2px);
+}
+
+.btn-outline-light {
+    border-width: 2px;
+    border-radius: 0; /* Sharp corners for luxury feel */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px 25px;
+}
+
+.btn-outline-dark {
+    border-radius: 0;
+}
+
+/* Cards */
+.card {
+    border: none;
+    border-radius: 0;
+    transition: transform 0.3s, box-shadow 0.3s;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+    transition: transform 0.5s;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+
+/* Footer */
+footer a {
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: var(--primary-gold) !important;
+}

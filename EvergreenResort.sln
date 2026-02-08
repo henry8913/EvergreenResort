@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvergreenResort.Api", "EvergreenResort.Api\EvergreenResort.Api.csproj", "{AA08EC1C-FBC0-4A54-A80B-8C5CF9B7DEF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA08EC1C-FBC0-4A54-A80B-8C5CF9B7DEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA08EC1C-FBC0-4A54-A80B-8C5CF9B7DEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA08EC1C-FBC0-4A54-A80B-8C5CF9B7DEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA08EC1C-FBC0-4A54-A80B-8C5CF9B7DEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
