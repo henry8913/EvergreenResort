@@ -2967,11 +2967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/EvergreenResort.Api.csproj",
+      "projectUniqueName": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/EvergreenResort.Api.csproj",
       "projectName": "EvergreenResort.Api",
-      "projectPath": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/EvergreenResort.Api.csproj",
+      "projectPath": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/EvergreenResort.Api.csproj",
       "packagesPath": "/Users/henry/.nuget/packages/",
-      "outputPath": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/obj/",
+      "outputPath": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/henry/.nuget/NuGet/NuGet.Config"

@@ -1,31 +1,43 @@
 {
   "Files": [
     {
-      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/about.html",
+      "Id": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/about.html",
       "PackagePath": "staticwebassets/about.html"
     },
     {
-      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/admin.html",
+      "Id": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/admin.html",
       "PackagePath": "staticwebassets/admin.html"
     },
     {
-      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/css/admin.css",
+      "Id": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/css/admin.css",
       "PackagePath": "staticwebassets/css/admin.css"
     },
     {
-      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/css/index.css",
+      "Id": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/css/index.css",
       "PackagePath": "staticwebassets/css/index.css"
     },
     {
-      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/index.html",
+      "Id": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/img/admin.png",
+      "PackagePath": "staticwebassets/img/admin.png"
+    },
+    {
+      "Id": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/img/h_cover.jpg",
+      "PackagePath": "staticwebassets/img/h_cover.jpg"
+    },
+    {
+      "Id": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/img/home.png",
+      "PackagePath": "staticwebassets/img/home.png"
+    },
+    {
+      "Id": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
     {
-      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/js/admin.js",
+      "Id": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/js/admin.js",
       "PackagePath": "staticwebassets/js/admin.js"
     },
     {
-      "Id": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/js/index.js",
+      "Id": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/js/index.js",
       "PackagePath": "staticwebassets/js/index.js"
     },
     {

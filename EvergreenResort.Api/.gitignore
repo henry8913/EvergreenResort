@@ -1,0 +1,23 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Editor specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Database (SQLite)
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2vju+ltFZWGJojMRmA0lbVXJcF+qnS68kgYoUDjTkmo=",
+  "Hash": "0dxr9C3TqslRD7qGcwN4P/H1hOP4tSE2jBKrGATtTU0=",
   "Source": "EvergreenResort.Api",
   "BasePath": "_content/EvergreenResort.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EvergreenResort.Api/wwwroot",
       "Source": "EvergreenResort.Api",
-      "ContentRoot": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
       "BasePath": "_content/EvergreenResort.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/about.html",
+      "Identity": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/about.html",
       "SourceId": "EvergreenResort.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
       "BasePath": "_content/EvergreenResort.Api",
       "RelativePath": "about.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot/about.html"
     },
     {
-      "Identity": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/admin.html",
+      "Identity": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/admin.html",
       "SourceId": "EvergreenResort.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
       "BasePath": "_content/EvergreenResort.Api",
       "RelativePath": "admin.html",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot/admin.html"
     },
     {
-      "Identity": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/css/admin.css",
+      "Identity": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/css/admin.css",
       "SourceId": "EvergreenResort.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
       "BasePath": "_content/EvergreenResort.Api",
       "RelativePath": "css/admin.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/css/admin.css"
     },
     {
-      "Identity": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/css/index.css",
+      "Identity": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/css/index.css",
       "SourceId": "EvergreenResort.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
       "BasePath": "_content/EvergreenResort.Api",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -93,10 +93,67 @@
       "OriginalItemSpec": "wwwroot/css/index.css"
     },
     {
-      "Identity": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/index.html",
+      "Identity": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/img/admin.png",
       "SourceId": "EvergreenResort.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "BasePath": "_content/EvergreenResort.Api",
+      "RelativePath": "img/admin.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/admin.png"
+    },
+    {
+      "Identity": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/img/h_cover.jpg",
+      "SourceId": "EvergreenResort.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "BasePath": "_content/EvergreenResort.Api",
+      "RelativePath": "img/h_cover.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/h_cover.jpg"
+    },
+    {
+      "Identity": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/img/home.png",
+      "SourceId": "EvergreenResort.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "BasePath": "_content/EvergreenResort.Api",
+      "RelativePath": "img/home.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/home.png"
+    },
+    {
+      "Identity": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/index.html",
+      "SourceId": "EvergreenResort.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
       "BasePath": "_content/EvergreenResort.Api",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -112,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/js/admin.js",
+      "Identity": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/js/admin.js",
       "SourceId": "EvergreenResort.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
       "BasePath": "_content/EvergreenResort.Api",
       "RelativePath": "js/admin.js",
       "AssetKind": "All",
@@ -131,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/js/admin.js"
     },
     {
-      "Identity": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/js/index.js",
+      "Identity": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/js/index.js",
       "SourceId": "EvergreenResort.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/henry/Downloads/EvergreenResort/EvergreenResort.Api/wwwroot/",
+      "ContentRoot": "/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/wwwroot/",
       "BasePath": "_content/EvergreenResort.Api",
       "RelativePath": "js/index.js",
       "AssetKind": "All",

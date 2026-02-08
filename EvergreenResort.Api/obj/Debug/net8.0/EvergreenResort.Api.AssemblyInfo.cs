@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvergreenResort.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a99b034a24b7ffb599c6e9d89fae6fa5ab434fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvergreenResort.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvergreenResort.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
