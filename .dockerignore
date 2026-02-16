@@ -1,0 +1,19 @@
+**/.git
+**/.gitignore
+**/.vs
+**/.vscode
+**/*.suo
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+**/.DS_Store
+**/bin
+**/obj
+**/TestResults
+**/node_modules
+# **/Dockerfile*
+**/docker-compose*
+**/*.db
+**/*.db-shm
+**/*.db-wal
+EvergreenResort.Api/Evergreen.db

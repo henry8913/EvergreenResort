@@ -60,36 +60,54 @@ EvergreenResort/
 ## 🚀 Come Iniziare
 
 ### Prerequisiti
-*   [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) installato sulla macchina.
+*   [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) installato sulla macchina
+*   Docker (opzionale) se vuoi usare i container
 
-### Installazione e Avvio
+### Avvio locale (dotnet)
+1. Clona il repository:
+   ```bash
+   git clone https://github.com/henry8913/evergreen-resort.git
+   cd EvergreenResort
+   ```
+2. Ripristina le dipendenze:
+   ```bash
+   dotnet restore
+   ```
+3. Avvia l'applicazione:
+   ```bash
+   cd EvergreenResort.Api
+   dotnet run
+   ```
+4. Accesso:
+   - Sito: http://localhost:5024/
+   - Admin: http://localhost:5024/admin.html
 
-1.  **Clona il repository** (o scarica i file):
-    ```bash
-    git clone https://github.com/henry8913/evergreen-resort.git
-    cd EvergreenResort
-    ```
-
-2.  **Ripristina le dipendenze**:
-    ```bash
-    dotnet restore
-    ```
-
-3.  **Avvia l'applicazione**:
-    ```bash
-    cd EvergreenResort.Api
-    dotnet run
-    ```
-
-4.  **Accedi al sito**:
-    *   Apri il browser e vai su `http://localhost:5000` (o la porta indicata nel terminale).
-    *   Per l'area amministrativa: `http://localhost:5000/admin.html`.
+### Avvio con Docker
+1. Build dell'immagine:
+   ```bash
+   docker build -t evergreenresort:latest .
+   ```
+2. Avvio del container:
+   ```bash
+   docker run --rm -p 5024:5024 evergreenresort:latest
+   ```
+3. Accesso:
+   - Sito: http://localhost:5024/
+   - API: http://localhost:5024/api/camere
+4. Persistenza del database (opzionale):
+   ```bash
+   mkdir -p ./container-data
+   docker run --rm -p 5024:5024 \
+     -v "$(pwd)/container-data/Evergreen.db:/app/Evergreen.db" \
+     evergreenresort:latest
+   ```
+   Il contesto di build è ottimizzato da [.dockerignore](.dockerignore) per escludere artefatti di build, metadati IDE e database locali.
 
 ## 📸 Anteprima
 
 Il database viene popolato automaticamente all'avvio (`Program.cs`) con un set di dati iniziale che include diverse tipologie di camere (Presidential Golf Suite, Oak Wood Deluxe, ecc.) con immagini di alta qualità pronte all'uso.
 
-## 👤 Autore
+## Autore
 
 Progetto creato da [henry8913](https://github.com/henry8913).
 
