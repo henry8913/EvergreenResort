@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/EvergreenResort.Api.props" />
-</Project>

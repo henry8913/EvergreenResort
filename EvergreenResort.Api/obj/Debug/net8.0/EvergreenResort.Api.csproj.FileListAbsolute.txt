@@ -243,11 +243,6 @@
 /Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/EvergreenResort.Api.sourcelink.json
 /Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/staticwebassets.build.json
 /Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/staticwebassets.development.json
-/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/staticwebassets/msbuild.EvergreenResort.Api.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.EvergreenResort.Api.props
-/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EvergreenResort.Api.props
-/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EvergreenResort.Api.props
-/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/staticwebassets.pack.json
 /Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/scopedcss/bundle/EvergreenResort.Api.styles.css
 /Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/Evergree.25C5CC44.Up2Date
 /Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/EvergreenResort.Api.dll
@@ -255,3 +250,11 @@
 /Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/EvergreenResort.Api.pdb
 /Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/EvergreenResort.Api.genruntimeconfig.cache
 /Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/ref/EvergreenResort.Api.dll
+/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/bin/Debug/net8.0/EvergreenResort.Api.staticwebassets.endpoints.json
+/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/henry/Documents/GitHub/EvergreenResort/EvergreenResort.Api/obj/Debug/net8.0/swae.build.ex.cache
